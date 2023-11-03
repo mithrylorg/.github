@@ -1,17 +1,15 @@
-# ![Mithryl Icon](https://avatars.githubusercontent.com/u/149675569?s=26&v=4) Mithryl Initiative
-
-## Public Repository
+# ![Mithryl Icon](https://avatars.githubusercontent.com/u/149675569?s=26&v=4) Mithryl Initiative Public Repository
 
 The Mithryl Initiative Public Repository is the central hub for collaborative development of the Mithryl Project's suite of open-source privacy tools. 
 This repository hosts the source code, documentation, and issue tracking for Mithryl innovative solutions designed to enhance digital security and protect internet freedoms.
 
-### Rationale
+## Rationale
 
 The Mithryl Initiative was established to address the growing concerns around digital privacy and the need for accessible, transparent, and effective tools to protect individuals and organizations privacy and freedom. 
 By leveraging the collective expertise of the open-source community, we aim to develop robust technologies that can stand up to the modern challenges of digital security. 
 The public repository is a testament to our commitment to openness, collaboration, and the belief that privacy is a right, not a privilege.
 
-### Rules
+## Rules
 
 1. **Contributions.** We welcome contributions from all individuals and organizations that share our vision for a more secure digital world. Contributions can be in the form of code, documentation, bug reports, or feature requests.
 2. **Code of Conduct.** All participants in the repository are expected to adhere to the code of conduct, which promotes a respectful and collaborative environment. Harassment, discrimination, and any form of abuse are strictly prohibited.
