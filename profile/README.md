@@ -1,6 +1,6 @@
 # ![Mithryl Icon](https://avatars.githubusercontent.com/u/149675569?s=26&v=4) Mithryl Initiative Public Repository
 
-The Mithryl Initiative Public Repository is the central hub for collaborative development of the Mithryl Project's suite of open-source privacy tools. 
+The Mithryl Initiative Public Repository is the central hub for collaborative development of the Mithryl Initiative's suite of open-source privacy tools. 
 This repository hosts the source code, documentation, and issue tracking for Mithryl innovative solutions designed to enhance digital security and protect internet freedoms.
 
 ## Rationale
